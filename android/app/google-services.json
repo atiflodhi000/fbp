@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806560324569",
+    "project_id": "flutter-ppp-1c33e",
+    "storage_bucket": "flutter-ppp-1c33e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806560324569:android:13bd5030d952e7ad9017c8",
+        "android_client_info": {
+          "package_name": "com.atif.fbp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806560324569-grgall728hhjn2cd9id791tvdtv5a0vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB35mKA9qVU--Kz-vzVRVIJdgcvkgsTAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806560324569-grgall728hhjn2cd9id791tvdtv5a0vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
